@@ -12,7 +12,7 @@
 		ticksPerRedstoneUpdate = 20
 		#A multiplier for balancing overall power production from Extreme Reactors generators.
 		#Range: 0.5 ~ 100.0
-		powerProductionMultiplier = 1.0
+		powerProductionMultiplier = 2.5
 
 	#Define how Turbines works
 	[common.turbine]
