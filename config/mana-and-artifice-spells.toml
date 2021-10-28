@@ -2986,7 +2986,7 @@
 		default = 1.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 3.0
+		maximum = 9999.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 5.0

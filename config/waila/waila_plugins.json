@@ -17,6 +17,22 @@
     "show_soil": true,
     "show_debug": false
   },
+  "harvestability": {
+    "unharvestableonly": false,
+    "toolrequiredonly": true,
+    "harvestlevel.sneakingonly": false,
+    "currentlyharvestable.sneakingonly": false,
+    "shearability.sneakingonly": false,
+    "harvestlevelnum.sneakingonly": false,
+    "harvestlevel": true,
+    "minimal": false,
+    "effectivetool.sneakingonly": false,
+    "oresonly": false,
+    "currentlyharvestable": true,
+    "shearability": true,
+    "effectivetool": true,
+    "harvestlevelnum": false
+  },
   "waila": {
     "show_registry": false,
     "show_entity_hp": true,

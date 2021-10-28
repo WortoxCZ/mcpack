@@ -16,7 +16,7 @@
 	#Maximum reach in survival without upgrades
 	#Reach upgrades are craftable consumables that permanently increase reach.
 	#Set to 0 to disable Effortless Building until the player has consumed a reach upgrade.
-	maxReachLevel0 = 20
+	maxReachLevel0 = 1000
 
 [SurvivalBalancers]
 	#How many placements are remembered for the undo functionality.
